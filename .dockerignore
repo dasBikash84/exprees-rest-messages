@@ -2,7 +2,7 @@
 .gitignore
 package-lock.json
 Dockerfile
-.dockerfile
+.dockerignore
 node_modules
 npm-debug.log
 .env
